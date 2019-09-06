@@ -1,0 +1,77 @@
+table{
+    width:100%;
+    border :1px solid black;
+    border-collapse:collapse;
+}
+
+.grey{
+    background-color:grey;
+}
+
+.red{
+    background-color:red; 
+}
+
+.purple{
+    background-color:purple;
+}
+
+.red1{
+    background-color:red;
+}
+
+.purple1{ 
+    background-color:purple;
+}
+
+
+td:nth-child(2){
+    text-align:center;
+}
+
+td:nth-child(3){
+    text-align:center;
+}
+
+td:nth-child(4){
+    text-align:right;
+}
+
+caption{
+    caption-side:bottom;
+}
+
+.table1{
+    width:500px;
+    border:1px solid black;
+    border-collapse:collapse;
+}
+
+.blue{
+    background-color:blue;
+    width:170px;
+}
+
+.red3{
+    height:100px;
+    background-color:red;
+}
+.yellow{
+    background-color:yellow;
+    height:100px;
+}
+
+.black{
+    background-color:black;
+}
+.green{
+    background-color:#01FD01;
+    height:100px;
+}
+
+.table3{
+     width:50%;
+     border:1px;
+     background-color:white;
+}
+
